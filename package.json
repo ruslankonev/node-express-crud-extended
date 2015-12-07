@@ -1,5 +1,5 @@
 {
-  "name": "express-crud",
+  "name": "express-crud-extended",
   "version": "4.0.1",
   "description": "Easy CRUD for express apps!",
   "main": "./lib",
@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsdevel/node-express-crud.git"
+    "url": "https://github.com/ruslankonev/node-express-crud.git"
   },
   "keywords": [
     "crud",
     "express"
   ],
-  "author": "Joseph Spencer",
+  "author": "Ruslan Konev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jsdevel/node-express-crud/issues"
+    "url": "https://github.com/ruslankonev/node-express-crud/issues"
   },
-  "homepage": "https://github.com/jsdevel/node-express-crud",
+  "homepage": "https://github.com/ruslankonev/node-express-crud-extended",
   "peerDependencies": {
     "express": "*",
     "async": "*"
