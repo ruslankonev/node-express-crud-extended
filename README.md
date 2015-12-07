@@ -1,4 +1,4 @@
-# express-crud [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
+# express-crud-extended 
 > Easily route a resource's crud methods to express apps!
 
 ##Example
